@@ -9,7 +9,7 @@
 
 - 💬 Pode tirar dúvidas comigo sobre **Javascript no geral, frontend moderno e arquitetura de software**
 
-- 📫 Onde me achar ? **contato@iagocavalcante.dev**
+- 📫 Onde me achar ? **iagoangelimc@gmail.com**
 
 - ⚡ Fatos sobre mim ? **Bom, gosto de jogar um futebol, ficar de molho, curtir a família e viajar por ai**
 
