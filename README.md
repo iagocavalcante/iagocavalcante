@@ -5,11 +5,11 @@
 
 - 🔭 Atualmente trabalhando no [PersonalBoard](https://github.com/iagocavalcante/personal_board_v2)
 
-- 📝 Pode encontrar algumas coisas que posto no [https://iagocavalcante.dev](https://iagocavalcante.dev)
+- 📝 Pode encontrar algumas coisas que posto no [https://iagocavalcante.com](https://iagocavalcante.com)
 
-- 💬 Pode tirar dúvidas comigo sobre **Javascript no geral, frontend moderno e arquitetura de software**
+- 💬 Pode tirar dúvidas comigo sobre **Elixir, Javascript no geral, frontend moderno e arquitetura de software**
 
-- 📫 Onde me achar ? **iagoangelimc@gmail.com**
+- 📫 Onde me achar ? **iagocavalcante@hey.com**
 
 - ⚡ Fatos sobre mim ? **Bom, gosto de jogar um futebol, ficar de molho, curtir a família e viajar por ai**
 
