@@ -1,4 +1,3 @@
-![Yuppies - Bust(1)](https://user-images.githubusercontent.com/5131187/113372845-f0605580-933f-11eb-97fc-4fbc9075744f.png)
 <h1 align="center">Oi pessoal, me chamo Iago Cavalcante</h1>
 <h3 align="center">Trampo como Software Engineer e Consultor de Software, minha stack atualmente é Elixir/Phoenix, Javascript(React, RN, vue, node) e PHP</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iagocavalcante" alt="iagocavalcante" /> </p>
